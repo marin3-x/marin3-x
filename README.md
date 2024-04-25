@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, next.js, jQuary**
 
-- 📫 Contact Me in **mail@gmail.com**
+- 📫 Contact Me in **amit.sharma8990x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
