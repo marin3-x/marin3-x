@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marin3-x/](https://github.com/marin3-x/)
+- 👨‍💻 All of my projects are available at [https://github.com/marin3-x/](https://github.com/marin3-x/porfolio)
 
 - 💬 Ask me about **react, next.js, jQuary**
 
