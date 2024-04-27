@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MarineX</h1>
 <h3 align="center">A frontend web-developer</h3>
 
-- 💻 I’m currently working on [findcord - A discord tool](https://github.com/cosmic-dev1/findcord)
+- 💻 I’m currently working on [findcord - A discord tool](https://github.com/marin3-x/findcord)
 
 - 🌱 I’m currently learning **Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marin3-x/](https://github.com/marin3-x/porfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/marin3-x/](https://github.com/marin3-x/)
 
 - 💬 Ask me about **react, next.js, jQuary**
 
