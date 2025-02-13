@@ -11,7 +11,7 @@
 ```javascript
 const Marine = {
   identity: "CODER" | "HACKER",
-  code: [Javascript, html, css, Ruby, Python, Java],
+  code: [Javascript, Html, Css, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["Giving life to an idea", "event-driven", "fixing bug"],
   techCommunities: {
